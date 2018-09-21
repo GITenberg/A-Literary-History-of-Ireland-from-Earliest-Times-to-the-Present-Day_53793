@@ -1,0 +1,28 @@
+_repo: A-Literary-History-of-Ireland-from-Earliest-Times-to-the-Present-Day_53793
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hyde, Douglas
+    birthdate: 1860
+    deathdate: 1949
+    gutenberg_agent_id: '36019'
+    url: http://www.gutenberg.org/2009/agents/36019
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_Hyde
+description: ''
+gutenberg_issued: '2016-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53793'
+  lccn: '15022599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Civilization, Celtic, in literature'
+- !lcsh 'Irish literature -- History and criticism'
+- !lcsh 'Language and culture -- Ireland'
+- GITenberg
+title: A Literary History of Ireland, from Earliest Times to the Present Day
+url: http://www.gutenberg.org/ebooks/53793
