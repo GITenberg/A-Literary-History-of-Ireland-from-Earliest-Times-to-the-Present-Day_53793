@@ -1,5 +1,8 @@
 _repo: A-Literary-History-of-Ireland-from-Earliest-Times-to-the-Present-Day_53793
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53793-h/images/cover.jpg
 creator:
   author:
     agent_name: Hyde, Douglas
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36019
     wikipedia: http://en.wikipedia.org/wiki/Douglas_Hyde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53793#A-Literary-History-of-Ireland-from-Earliest-Times-to-the-Present-Day
 gutenberg_issued: '2016-12-23'
 gutenberg_type: Text
 identifiers:
